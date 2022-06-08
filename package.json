@@ -1,0 +1,11 @@
+{
+  "name": "scra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "moment": "^2.29.3",
+    "playwright": "^1.22.2"
+  }
+}
